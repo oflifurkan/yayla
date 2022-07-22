@@ -11,4 +11,4 @@ This is the software you are looking for alternative of YAT on GNU/Linux.
 * Core software that interactive with shell
 * Choosing simple gui library
 * Cross platform with Windows
-*  
+* ...  
