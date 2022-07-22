@@ -9,4 +9,4 @@ This is the software you are looking for alternative of YAT on GNU/Linux.
 * Accessing serial port.
 * Opening and closing port with GUI
 * Core software that interactive with shell
- 
+* Simple gui 
