@@ -10,4 +10,5 @@ This is the software you are looking for alternative of YAT on GNU/Linux.
 * Opening and closing port with GUI
 * Core software that interactive with shell
 * Choosing simple gui library
-* Cross platform with Windows  
+* Cross platform with Windows
+*  
